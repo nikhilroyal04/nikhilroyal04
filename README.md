@@ -35,14 +35,14 @@
   <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions,jenkins,vercel,aws,postman" alt="DevOps tools" />
 </p>
 
-### 🧩 Other Technologies
+### 🧩 Core Technologies & Systems
 <p align="center">
   <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microservices-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Microservices-0d6efd?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/-WebSockets-FF6B6B?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WebSockets-ff6b6b?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/-REST%20APIs-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Custom%20Software%20Development-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Custom%20Software%20Solutions-8E44AD?style=for-the-badge" />
 </p>
 
 ---
@@ -50,17 +50,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilroyal04&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=nikhilroyal04&theme=tokyonight" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilroyal04&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="GitHub Stats" />
 </p>
 
 ---
 
 ## 🧠 Currently Learning
 
-- 🧩 **React Native** for cross-platform app development  
-- ☁️ **AWS & Cloud Deployments** for scalability  
-- 🐍 **Advanced backend architecture** using **Node.js**, **Kafka**, and **Microservices**  
+- ☁️ **Advanced DevOps Practices** – scaling with Docker, Nginx, and Kubernetes  
+- 🏗️ **Infrastructure as Code (IaC)** – Terraform and Ansible  
+- ⚙️ **Advanced Backend Patterns** – event-driven microservices using Kafka  
+- 🚀 **Cloud-Native Deployments** on AWS and Vercel  
 
 ---
 
