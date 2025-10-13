@@ -49,7 +49,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhilroyal04&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilroyal04&theme=tokyonight" height="150" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.vercel.app/?user=nikhilroyal04&theme=tokyonight" height="150" alt="GitHub Streak" />
 </p>
 
 ---
