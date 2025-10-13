@@ -1,6 +1,6 @@
 <!-- ==================== HEADER ==================== -->
-<h1 align="center">Hey there 👋, I’m **Nikhil Chaudhary**</h1>
-<h3 align="center">🚀 Full-Stack (MERN) Developer | React | Node.js | Next.js | MongoDB</h3>
+<h1 align="center">Hey there 👋, I'm Nikhil Chaudhary</h1>
+<h3 align="center">🚀 Full-Stack (MERN) Developer | DevOps Enthusiast | Building Scalable Web Solutions</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=nikhilroyal04&label=Profile%20Views&color=0e75b6&style=flat">
@@ -12,18 +12,35 @@
 
 ## 💫 About Me
 
-- 💻 I build **web applications** with **MERN stack** (MongoDB, Express, React, Node)  
-- 🧰 I love writing clean, modular code and designing good user experiences  
-- 🌱 I’m learning more about **Next.js**, **serverless architecture**, and **Jamstack**  
-- ⚡ Fun fact: I enjoy solving algorithmic problems and contributing to open source  
-- 📫 Reach me: your.email@example.com  
+- 💻 Passionate **Full Stack Developer** crafting dynamic and scalable web applications  
+- 🌐 Skilled in **MERN Stack** – MongoDB, Express, React, Node.js  
+- ⚙️ Strong interest in **DevOps**, CI/CD pipelines, and scalable deployments  
+- 🐳 Exploring tools like **Docker**, **Kafka**, **Nginx**, and **GitHub Actions**  
+- 🚀 Focused on writing **clean, optimized, and maintainable code**  
+- 💬 Always learning — from backend architecture to performance optimization  
+- 📫 Reach me at: **nikhil@startupzila.com**
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack & Tools
 
+### 🚀 Full Stack Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redux,nextjs,html,css,js,git,github,tailwind,materialui,vscode" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,express,mongodb,html,css,js,ts,materialui,tailwind,vite,vscode" alt="Full stack tools" />
+</p>
+
+### ⚙️ DevOps & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,githubactions,jenkins,vercel,aws,postman" alt="DevOps tools" />
+</p>
+
+### 🧩 Other Technologies
+<p align="center">
+  <img src="https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WebSockets-FF6B6B?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-REST%20APIs-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Microservices-0078D4?style=for-the-badge" />
 </p>
 
 ---
@@ -31,44 +48,30 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilroyal04&show_icons=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilroyal04&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilroyal04&theme=tokyonight" height="150" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🚀 Top Projects
+## 🧠 Currently Learning
 
-> Here are a few projects I’m proud of. (Click to view.)
-
-| Project | Description |
-|--------|-------------|
-| [Project-One](https://github.com/nikhilroyal04/project-one) | Short description: what problem it solves, key tech used. |
-| [Project-Two](https://github.com/nikhilroyal04/project-two) | Another app—frontend + backend, features, etc. |
-| [Project-Three](https://github.com/nikhilroyal04/project-three) | Full stack project or something interesting. |
-
-> 🔧 *Feel free to add 3–5 of your best or most recent repos here.*
+- 🧩 **React Native** for cross-platform app development  
+- ☁️ **AWS & Cloud Deployments** for scalability  
+- 🐍 **Advanced backend patterns** with Node.js and Kafka  
 
 ---
 
-## 📬 Get In Touch
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+  <a href="mailto:nikhil@startupzila.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/nikhilchaudhary"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/nikhilroyal04"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 </p>
 
 ---
 
-## 🧩 What’s Next / Goals
-
-- Build and publish a **full product** (SaaS or web app)  
-- Contribute to open source with meaningful features or bug fixes  
-- Strengthen skills in **serverless, GraphQL, and mobile development**
-
----
-
-*“Code is like humor. When you have to explain it, it’s bad.”*  
-– Cory House  
-
+<p align="center">
+  <i>“Code. Deploy. Repeat. Always improving, always learning.”</i> 🚀
+</p>
